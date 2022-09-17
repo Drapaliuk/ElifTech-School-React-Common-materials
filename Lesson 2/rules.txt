@@ -1,0 +1,7 @@
+quotes
+max-params
+arrow-parens
+semi
+semi-spacing
+camelcase
+no-console

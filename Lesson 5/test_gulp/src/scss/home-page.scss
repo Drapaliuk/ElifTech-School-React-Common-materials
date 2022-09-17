@@ -1,0 +1,13 @@
+$primary: red;
+
+.container {
+    max-width: 1600px;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    color: $primary;
+}
